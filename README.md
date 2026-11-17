@@ -1,1 +1,3 @@
-# WaterMonsters-OldSite
+# Water Monsters: the old address
+
+Water Monsters' website moved from `watermonsters.scaleswap.co` to its own domain, **https://watermonsters.app** (the site itself is in the WaterMonsters-Site repository). This repository keeps the old address working: served by GitHub Pages on `watermonsters.scaleswap.co` (the `CNAME` file), every page sends the visitor straight on to the same page on watermonsters.app: `index.html` to the home page, `privacy.html` to the privacy policy, and `404.html` any other path to the same path there. It is for the links in the first version of the app and its first App Store listing; once every player has an update pointing to watermonsters.app, it can be removed.

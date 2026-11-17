@@ -1,0 +1,3 @@
+# AdMob authorized sellers file, with Water Monsters' AdMob publisher id, served at https://watermonsters.app/app-ads.txt,
+# the root of the developer website given in App Store Connect and Google Play (the Marketing URL https://watermonsters.app/)
+google.com, pub-9386046272330155, DIRECT, f08c47fec0942fa0
